@@ -7,5 +7,7 @@ Los ejercicios trato que estén lo mejor explicados posible, e intento que no te
 sin embargo, puede haber algun fallo.
 
 Este repositorio solo contiene ejercicios desde el 2º cuatrimestre de 2º en adelante, si
-buscas ejercicios de cuatrimestres anteriores, hay mas repositorios aprte del mio que tienen
-el objetivo de ayudar y probablemente contengan algo de estos años.
+buscas ejercicios de cuatrimestres anteriores, hay mas repositorios aparte del mio que tienen
+tambien el objetivo de ayudar y probablemente contengan algo de estos años.
+
+Si quieres aportar material, ponte en contacto conmigo
