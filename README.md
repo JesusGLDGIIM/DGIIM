@@ -11,3 +11,10 @@ buscas ejercicios de cuatrimestres anteriores, hay mas repositorios aparte del m
 tambien el objetivo de ayudar y probablemente contengan algo de estos años.
 
 Si quieres aportar material, ponte en contacto conmigo
+
+#Actualizaciones
+Se intentará actualizar semanalmente con los ejercicios realizados durante la semana.
+Probablemente los domingos.
+
+#Próximamente
+PDOO (Mi código) y practicas de AC (Solo los PDFS del bloque de practicas).
