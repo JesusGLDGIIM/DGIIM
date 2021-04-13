@@ -18,7 +18,7 @@ Un resumen del tema 2 de MM.
 El BP0 y BP1 de prácticas de AC y el examen del tema 1 de prácticas de AC.
 
 ## Próximamente
-PDOO (Mi código) y relación del tema 2 de MM
+PDOO (Mi código), relación del tema 2 de MM, relación del temma 3 de LMD
 
 ## Actualizaciones
 Se intentará actualizar semanalmente con los ejercicios realizados durante la semana.
