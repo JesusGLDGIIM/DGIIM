@@ -13,9 +13,9 @@ tambien el objetivo de ayudar y probablemente contengan algo de estos años.
 Si quieres aportar material, ponte en contacto conmigo
 
 ## Reciente
-Se ha añadido los ejercicios del tema 2 de AMII
-Un resumen del tema 2 de MM
-El BP0 y BP1 de prácticas de AC y el examen del tema 1 de prácticas de AC
+Se ha añadido los ejercicios del tema 2 de AMII.
+Un resumen del tema 2 de MM.
+El BP0 y BP1 de prácticas de AC y el examen del tema 1 de prácticas de AC.
 
 ## Próximamente
 PDOO (Mi código) y relación del tema 2 de MM
