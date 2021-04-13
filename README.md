@@ -12,9 +12,15 @@ tambien el objetivo de ayudar y probablemente contengan algo de estos años.
 
 Si quieres aportar material, ponte en contacto conmigo
 
+## Reciente
+Se ha añadido los ejercicios del tema 2 de AMII
+Un resumen del tema 2 de MM
+El BP0 y BP1 de prácticas de AC y el examen del tema 1 de prácticas de AC
+
 ## Actualizaciones
 Se intentará actualizar semanalmente con los ejercicios realizados durante la semana.
 Probablemente los domingos.
 
 ## Próximamente
 PDOO (Mi código) y practicas de AC (Solo los PDFS del bloque de practicas).
+
