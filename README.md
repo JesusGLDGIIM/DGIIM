@@ -17,10 +17,10 @@ Se ha añadido los ejercicios del tema 2 de AMII
 Un resumen del tema 2 de MM
 El BP0 y BP1 de prácticas de AC y el examen del tema 1 de prácticas de AC
 
+## Próximamente
+PDOO (Mi código) y relación del tema 2 de MM
+
 ## Actualizaciones
 Se intentará actualizar semanalmente con los ejercicios realizados durante la semana.
 Probablemente los domingos.
-
-## Próximamente
-PDOO (Mi código) y practicas de AC (Solo los PDFS del bloque de practicas).
 
