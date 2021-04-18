@@ -10,15 +10,13 @@ Este repositorio solo contiene ejercicios desde el 2º cuatrimestre de 2º en ad
 buscas ejercicios de cuatrimestres anteriores, hay mas repositorios aparte del mio que tienen
 tambien el objetivo de ayudar y probablemente contengan algo de estos años.
 
-Si quieres aportar material, ponte en contacto conmigo
+Si quieres aportar material, ponte en contacto conmigo.
 
 ## Reciente
-Se ha añadido los ejercicios del tema 2 de AMII.
-Un resumen del tema 2 de MM.
-El BP0 y BP1 de prácticas de AC y el examen del tema 1 de prácticas de AC.
+Relación 3 LMD.
 
 ## Próximamente
-PDOO (Mi código), relación del tema 2 de MM, relación del temma 3 de LMD
+PDOO (Mi código), relación del tema 2 de MM.
 
 ## Actualizaciones
 Se intentará actualizar semanalmente con los ejercicios realizados durante la semana.
